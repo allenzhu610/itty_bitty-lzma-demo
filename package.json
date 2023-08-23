@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "lzma-purejs": "^0.9.3"
+  }
+}
